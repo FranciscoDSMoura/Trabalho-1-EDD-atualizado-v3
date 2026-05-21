@@ -54,7 +54,6 @@ Exemplo de Busca por Prefixo
 Se o usuário desejar buscar os times que começam com "SE":
 - **Entrada:** `se`
 - **Saída:**
-
   
   |  ID   | Time    | V | E | D | GM | GS | S | PG |
   | :---: | :---:   |   |   |   |    |    |   |    |
