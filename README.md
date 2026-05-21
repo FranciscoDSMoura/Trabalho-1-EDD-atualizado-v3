@@ -4,7 +4,7 @@ Este projeto consiste em um sistema de gerenciamento de dados de um campeonato d
 
 ## 1 Requisitos para executar
 
-GCC 
+GCC 11
 
 Linux Ubuntu V24.04
 
@@ -46,11 +46,17 @@ Linux Ubuntu V24.04
 
 ## 6 Descrição das Funcionalidades (Parte I)
 
-* **Consulta de Times:** Busca por nome ou prefixo (case-insensitive).
-  
-* **Consulta de Partidas:** Filtros por mandante, visitante ou ambos.
+* 6.1 **Consulta de Times:** Busca por nome ou prefixo (case-insensitive).
 
-+ Imprimir Tabela de Classificação: Exibe a lista completa de times e seus pontos acumulados.
+Exemplo de Busca por Prefixo
+Se o usuário desejar buscar os times que começam com "SE":
+- **Entrada:** `se`
+- **Saída:** - 2 - SemCTRL
+  - 5 - SeQueLas
+  
+* 6.2 **Consulta de Partidas:** Filtros por mandante, visitante ou ambos.
+
++ 6.3 Imprimir Tabela de Classificação: Exibe a lista completa de times e seus pontos acumulados.
 
 Ao selecionar a **opção 6** no menu, o sistema gera o seguinte relatório de desempenho dos times:
 
