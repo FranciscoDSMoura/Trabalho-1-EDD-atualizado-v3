@@ -55,11 +55,14 @@ Se o usuário desejar buscar os times que começam com "SE":
 - **Entrada:** `se`
 - **Saída:**
   - 2 - SemCTRL
+  | ID | Time | Vitórias | Empates | Derrotas | GM | GS | Saldo | PG |
+  | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | **2** | JAVAlis | 3 | 1 | 0 | 10 | 4 | +6 | **10** |        
   - 5 - SeQueLas
 ---
 * 6.2 **Consulta de Partidas:** Filtros por mandante, visitante ou ambos.
 
-| ID    | Time1   |  :----: |  Time 2  |
+| ID    | Time1   |    -    |  Time 2  |
 | :---: | :----:  |  :----: | :------: |
 | **0** | JAVAlis |  5 x 4  | NETunos  |
 | **4** | PYthons |  2 x 2  | SEquelas |
