@@ -64,7 +64,7 @@ Se o usuário desejar buscar os times que começam com "SE":
 | **0** | JAVAlis |  5 x 4 | NETunos  |
 | **4** | PYthons |  2 x 2 | SEquelas |
 
-+ 6.3 Imprimir Tabela de Classificação: Exibe a lista completa de times e seus pontos acumulados.
++ 6.3 **Imprimir Tabela de Classificação:** Exibe a lista completa de times e seus pontos acumulados.
 
 Ao selecionar a **opção 6** no menu, o sistema gera o seguinte relatório de desempenho dos times:
 
