@@ -61,7 +61,7 @@ Se o usuário desejar buscar os times que começam com "SE":
      
   - 5 - SeQueLas
   | ID    | Time     | V | E | D | GM | GS | S  | PG |
-  | :---: | :---:    |   |   |   |    |    |    |    |
+  | :---: | :---:    |:-:|:-:|:-:|:-: |:-: |:-: |:-: |
   | **2** | SeQueLas | 6 | 2 | 5 | 25 | 12 | 13 | 10 | 
 
 * 6.2 **Consulta de Partidas:** Filtros por mandante, visitante ou ambos.
