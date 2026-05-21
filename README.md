@@ -55,9 +55,9 @@ Se o usuário desejar buscar os times que começam com "SE":
 - **Entrada:** `se`
 - **Saída:**
   
-  |  ID   | Time    | V | E | D | GM | GS | S | PG |
-  | :---: | :---:   |   |   |   |    |    |   |    |
-  | **2** | SemCTRL | 3 | 1 | 0 | 10 | 4  | 6 | 10 |
+| ID | Time | V | E | D | GM | GS | S | PG |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2** | SemCTRL | 3 | 1 | 0 | 10 | 4 | 6 | 10 |
      
   
   | ID    | Time     | V | E | D | GM | GS | S  | PG |
