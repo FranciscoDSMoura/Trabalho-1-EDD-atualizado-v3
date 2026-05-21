@@ -2,7 +2,7 @@
 
 Este projeto consiste em um sistema de gerenciamento de dados de um campeonato de futebol simplificado, desenvolvido em Linguagem C como parte do trabalho prático da disciplina estrutura de dados.
 
-## 1 Requisitos para executar
+## 1 - Requisitos para executar
 
 GCC 11
 
