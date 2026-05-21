@@ -5,6 +5,7 @@ Este projeto consiste em um sistema de gerenciamento de dados de um campeonato d
 ## Requisitos para executar
 
 GCC 
+
 Linux Ubuntu V24.04
 
 ## Como Executar
