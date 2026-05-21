@@ -16,9 +16,11 @@ Linux Ubuntu V24.04
 
 ## Arquivos
 
-`main.c`: Ponto de entrada do sistema e controle do loop do menu.
+`main.c`: Ponto de entrada que gerencia o fluxo principal e inicialização dos bancos de dados.
 
 `time.h` / `time.c`: TAD que modela uma equipe individual e suas estatísticas (V, E, D, GM, GS, etc.).
+
+`ui.c / .h`: Gerencia a Interface de Usuário, menus e interações de entrada.
 
 `bd_times.h` / `bd_times.c`: TAD responsável por gerenciar a coleção de times e carregar o arquivo times.csv.
 
@@ -27,6 +29,18 @@ Linux Ubuntu V24.04
 `bd_partidas.h` / `bd_partidas.c`: TAD que gerencia o histórico de jogos e carrega o arquivo partidas.csv.
 
 `Makefile`: Arquivo de automação da compilação.
+
+## Estruturas utilizadas
+
++ O sistema utiliza listas encadeadas simples para os bancos de dados, garantindo que a memória seja utilizada conforme a necessidade
+
+## Regras de pontuação:
+
++ Vitória: +3 pontos.
+
++ Empate: +1 ponto.
+
++ Derrota: 0 pontos.
 
 ## Funcionalidades Implementadas (Parte I)
 
