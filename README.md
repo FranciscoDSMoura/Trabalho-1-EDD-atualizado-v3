@@ -2,19 +2,21 @@
 
 Este projeto consiste em um sistema de gerenciamento de dados de um campeonato de futebol simplificado, desenvolvido em Linguagem C como parte do trabalho prático da disciplina estrutura de dados.
 
-## Requisitos para executar
+## 1 Requisitos para executar
 
 GCC 
 
 Linux Ubuntu V24.04
 
-## Como Executar
+## 2 Como Executar
 
 `make` - _Compila automaticamente todos os módulos_
 
 `./main` - _Executa o programa_
 
-## Arquivos
+`make clean` - _Realiza a limpeza dos arquivos criados_
+
+## 3 Arquivos
 
 `main.c`: Ponto de entrada que gerencia o fluxo principal e inicialização dos bancos de dados.
 
@@ -30,11 +32,11 @@ Linux Ubuntu V24.04
 
 `Makefile`: Arquivo de automação da compilação.
 
-## Estruturas utilizadas
+## 4 Estruturas utilizadas
 
 + O sistema utiliza listas encadeadas simples para os bancos de dados, garantindo que a memória seja utilizada conforme a necessidade.
 
-## Regras de pontuação:
+## 5 Regras de pontuação:
 
 + Vitória: +3 pontos.
 
@@ -42,9 +44,11 @@ Linux Ubuntu V24.04
 
 + Derrota: 0 pontos.
 
-## Funcionalidades Implementadas (Parte I)
+## 6 Descrição das Funcionalidades (Parte I)
 
-+ Consultar Time: permite localizar um clube específico no banco de dados através de seu nome completo ou apenas um prefixo (ex: digitar "SE" para listar "SemCTRL" e "SeQueLas").
+* **Consulta de Times:** Busca por nome ou prefixo (case-insensitive).
+  
+* **Consulta de Partidas:** Filtros por mandante, visitante ou ambos.
 
 + Imprimir Tabela de Classificação: Exibe a lista completa de times e seus pontos acumulados.
 
