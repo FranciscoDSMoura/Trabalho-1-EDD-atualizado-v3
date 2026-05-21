@@ -16,12 +16,12 @@ make - _Compila automaticamente todos os módulos_
 
 ## Modularização
 
-*main.c*: Ponto de entrada do sistema e controle do loop do menu.
+`main.c`: Ponto de entrada do sistema e controle do loop do menu.
 
-*time.h / time.c*: TAD que modela uma equipe individual e suas estatísticas (V, E, D, GM, GS, etc.).
+`time.h / time.c`: TAD que modela uma equipe individual e suas estatísticas (V, E, D, GM, GS, etc.).
 
-*bd_times.h / bd_times.c*: TAD responsável por gerenciar a coleção de times e carregar o arquivo times.csv.
+`bd_times.h / bd_times.c`: TAD responsável por gerenciar a coleção de times e carregar o arquivo times.csv.
 
-*partida.h / partida.c*: TAD que representa as informações de um jogo específico.
+`partida.h / partida.c`: TAD que representa as informações de um jogo específico.
 
-*bd_partidas.h / bd_partidas.c*: TAD que gerencia o histórico de jogos e carrega o arquivo partidas.csv.
+`bd_partidas.h / bd_partidas.c`: TAD que gerencia o histórico de jogos e carrega o arquivo partidas.csv.
