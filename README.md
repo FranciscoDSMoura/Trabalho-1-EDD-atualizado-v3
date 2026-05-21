@@ -51,7 +51,8 @@ Linux Ubuntu V24.04
 Exemplo de Busca por Prefixo
 Se o usuário desejar buscar os times que começam com "SE":
 - **Entrada:** `se`
-- **Saída:** - 2 - SemCTRL
+- **Saída:**
+  - 2 - SemCTRL
   - 5 - SeQueLas
   
 * 6.2 **Consulta de Partidas:** Filtros por mandante, visitante ou ambos.
