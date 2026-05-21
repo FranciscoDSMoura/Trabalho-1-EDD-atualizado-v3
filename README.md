@@ -59,10 +59,10 @@ Se o usuário desejar buscar os times que começam com "SE":
 ---
 * 6.2 **Consulta de Partidas:** Filtros por mandante, visitante ou ambos.
 
-| ID    | Time1   |          Time 2   |
-| :---: | :----:  |  :------------:   |
-| **0** | JAVAlis |  5 x 4 | NETunos  |
-| **4** | PYthons |  2 x 2 | SEquelas |
+| ID    | Time1   |  :----: |  Time 2  |
+| :---: | :----:  |  :----: | :------: |
+| **0** | JAVAlis |  5 x 4  | NETunos  |
+| **4** | PYthons |  2 x 2  | SEquelas |
 
 + 6.3 **Imprimir Tabela de Classificação:** Exibe a lista completa de times e seus pontos acumulados.
 
